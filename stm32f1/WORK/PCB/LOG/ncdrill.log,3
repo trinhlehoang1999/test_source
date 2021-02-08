@@ -1,0 +1,59 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : STM32F103C8T6_KIT_DEV_2.brd                   )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Sun Dec 27 22:58:24 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (inch)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	YES
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING(SPMHMF-360): Design precision is greater than that of the drill output file data.
+ WARNING(SPMHMF-361): Data rounding errors are very possible.
+
+
+ Drill files being output to directory 'E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/PCB' ...
+
+
+
+     'DRILL-1-2.drl' created for holes connecting TOP and BOTTOM
+     -----------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.  12.0000    3.0000/  3.0000      PLATED         24
+            2.  20.0000    3.0000/  3.0000      PLATED         25
+            3.  40.1570    3.0000/  3.0000      PLATED         50
+            4.  21.6540    3.0000/  3.0000  NON_PLATED          2
+
+     ---- Total holes:                                        101
+
+     ---- Total head travel:              2.96 feet (0.90 meters)
+

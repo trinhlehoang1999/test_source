@@ -1,0 +1,88 @@
+Sun Dec 27 17:18:03 2020				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Sun Dec 27 17:18:03 2020
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : STM32F103C8T6_KIT_DEV_2.brd                   )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Sun Dec 27 17:18:07 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sun Dec 27 17:18:07 2020				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/PCB/STM32F103C8T6_KIT_DEV_2.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'YES'
+Update shape/flash symbols             = 'YES'
+Update symbol padstacks                = 'NO'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/LIBRARY/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/LIBRARY/ 
+
+
+------ Symbol Refresh Messages ------
+
+'2PIN_SMD_HC49-S'  symbol refreshed successfully.
+'MC306'  symbol refreshed successfully.
+'BUTTON_SMD_3X6MM'  symbol refreshed successfully.
+'R0603'  symbol refreshed successfully.
+'LED_1206_SMD_3_2X1_6MM'  symbol refreshed successfully.
+'C0603'  symbol refreshed successfully.
+'HEADER_4X1'  symbol refreshed successfully.
+'USB-MICRO-B-2_0'  symbol refreshed successfully.
+'SOT-23-5'  symbol refreshed successfully.
+'HEADER_3X2'  symbol refreshed successfully.
+'HEADER_20X1'  symbol refreshed successfully.
+'LQFP48'  symbol refreshed successfully.
+'AB00'  symbol refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 13 out 13
+    Design updated.
+

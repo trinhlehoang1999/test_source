@@ -1,0 +1,79 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : STM32F103C8T6_KIT_DEV_2.brd                   )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Mon Dec 28 22:05:08 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < SUB_PNL >
+     TO FILE < E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/PCB/SUB_PNL.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (-100.000 -400.000)
+           ... using undefined line width of 6.000
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 6.000
+
+    WARNING: text composed 0 width line found at (-603.500 1232.500)
+           ... using undefined line width of 6.000
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 6.000
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00010                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+
+     SUB_PNL created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        SUB_PNL created with warnings
+
+ ARTWORK had warnings

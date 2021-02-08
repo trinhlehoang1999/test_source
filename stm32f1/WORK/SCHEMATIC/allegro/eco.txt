@@ -1,0 +1,156 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/PCB/STM32F103C8T6_KIT_DEV.brd    |
+|                                                    Sat Dec 26 10:49:49 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  BOOT0        pins MOVED FROM this net (to net name listed on right)
+                                 U1.41           1180.11 254.506
+                                                                            PB5
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins MOVED FROM this net (to net name listed on right)
+                                 U1.26           901.724 338.023
+                                                                           PB13
+                                 U1.38           1138.35 212.748
+                                                                           PA15
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA8          pins MOVED FROM this net (to net name listed on right)
+                                 U1.32           985.241 254.506
+                                                                           PA11
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA9          pins MOVED FROM this net (to net name listed on right)
+                                 U1.31           971.322 268.426
+                                                                           PA10
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA10         pins MOVED FROM this net (to net name listed on right)
+                                 U1.30           957.402 282.346
+                                                                            PA9
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA11         pins MOVED FROM this net (to net name listed on right)
+                                 U1.29           943.482 296.265
+                                                                            PA8
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA12         pins MOVED FROM this net (to net name listed on right)
+                                 U1.28           929.563 310.185
+                                                                           PB15
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA15         pins MOVED FROM this net (to net name listed on right)
+                                 U1.47           1263.63 338.023
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB3          pins MOVED FROM this net (to net name listed on right)
+                                 U1.46           1249.71 324.104
+                                                                            PB9
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB4          pins MOVED FROM this net (to net name listed on right)
+                                 U1.45           1235.79 310.185
+                                                                            PB8
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB5          pins MOVED FROM this net (to net name listed on right)
+                                 U1.44           1221.87 296.265
+                                                                          BOOT0
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/PCB/STM32F103C8T6_KIT_DEV.brd    |
+|                                                    Sat Dec 26 10:49:49 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  PB6          pins MOVED FROM this net (to net name listed on right)
+                                 U1.43           1207.95 282.346
+                                                                            PB7
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB7          pins MOVED FROM this net (to net name listed on right)
+                                 U1.42           1194.03 268.426
+                                                                            PB6
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB8          pins MOVED FROM this net (to net name listed on right)
+                                 U1.40           1166.19 240.587
+                                                                            PB4
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB9          pins MOVED FROM this net (to net name listed on right)
+                                 U1.39           1152.27 226.668
+                                                                            PB3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB12         pins MOVED FROM this net (to net name listed on right)
+                                 U1.36           1040.91 198.829
+                                                                         VCC3V3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB13         pins MOVED FROM this net (to net name listed on right)
+                                 U1.35           1026.99 212.748
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB14         pins MOVED FROM this net (to net name listed on right)
+                                 U1.34           1013.08 226.668
+                                                                           SWIO
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB15         pins MOVED FROM this net (to net name listed on right)
+                                 U1.33           999.161 240.587
+                                                                           PA12
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SWCLK        pins MOVED FROM this net (to net name listed on right)
+                                 U1.48           1277.54 351.943
+                                                                         VCC3V3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SWIO         pins MOVED FROM this net (to net name listed on right)
+                                 U1.27           915.644 324.104
+                                                                           PB14
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC3V3       pins MOVED FROM this net (to net name listed on right)
+                                 U1.25           887.805 351.943
+                                                                           PB12
+                                 U1.37           1124.43 198.829
+                                                                          SWCLK
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/PCB/STM32F103C8T6_KIT_DEV.brd    |
+|                                                    Sat Dec 26 10:49:49 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ STM32F103XX_2_LQFP48_STM32F103X
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/PCB/STM32F103C8T6_KIT_DEV.brd    |
+|                                                    Sat Dec 26 10:49:49 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U1                  STM32F103XX_2_LQFP48_STM32F103X 1082.67 393.701 STM32F103XX_1_LQFP48_STM32F103X
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/PCB/STM32F103C8T6_KIT_DEV.brd    |
+|                                                    Sat Dec 26 10:49:49 2020  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U1.47          1082.67 393.701 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :      24                                        |
+|       Comp definitions added:       1                                        |
+|       Components changed    :       1                                        |
+|       Slot property added   :       1                                        |
+|                                                                              |
+|   Total ECO changes reported:      27                                        |
+|------------------------------------------------------------------------------|

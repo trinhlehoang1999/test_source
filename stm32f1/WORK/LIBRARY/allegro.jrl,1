@@ -1,0 +1,158 @@
+\t (00:00:03) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Dec 24 17:04:01 2020
+\t (00:00:03)         Host=DESKTOP-T7IU2JN User=HP Pid=7404 CPUs=8
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+   (00:00:03) Hello. I'm TRUONG 
+   (00:00:03) Hello. I'm TRUONG 
+   (00:00:03) Hello. I'm TRUONG 
+   (00:00:03) Hello. I'm TRUONG 
+   (00:00:03) Hello. I'm TRUONG 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/LIBRARY/USB-MICRO-B-2_0.dra
+\i (00:00:06) trapsize 745
+\i (00:00:06) trapsize 763
+\i (00:00:07) trapsize 763
+\i (00:00:08) generaledit 
+\i (00:00:11) new 
+\i (00:00:16) newdrawfillin "xZXC.brd" "Board"
+\t (00:00:18) Starting new design...
+\i (00:00:18) trapsize 5203
+\i (00:00:18) trapsize 5327
+\i (00:00:18) trapsize 5383
+\i (00:00:18) trapsize 10781
+\i (00:00:19) trapsize 10781
+\i (00:00:19) generaledit 
+\i (00:00:21) netin 
+\i (00:00:22) setwindow form.niparams
+\i (00:00:22) FORM niparams capture_netlist YES 
+\i (00:00:23) FORM niparams ignore_fixed YES 
+\i (00:00:24) FORM niparams browse  
+\i (00:00:28) fillin "E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/SCHEMATIC/allegro"
+\i (00:00:29) FORM niparams import  
+\t (00:00:29) Starting Cadence Logic Import...
+\t (00:00:31) Opening existing design...
+\i (00:00:31) setwindow pcb
+\i (00:00:31) trapsize 10781
+\i (00:00:32) generaledit 
+\i (00:00:40) place manual 
+\i (00:00:42) setwindow form.plc_manual
+\i (00:00:42) FORM plc_manual tree 'MULTISEL YES' U3 'Components by refdes' 
+\t (00:00:42) Placing U3 / USB-MICRO-2.0_USB-MICRO-B-2_0_U / USB-MICRO-B-2_0 on Top.
+\i (00:00:42) FORM plc_manual tree  U3 'Components by refdes' 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in -6.9663 -9.0330
+\i (00:00:43) trapsize 5390
+\i (00:00:43) zoom in 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in -31.0070 -8.9252
+\i (00:00:43) trapsize 2695
+\i (00:00:43) zoom in 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in -31.0070 -8.9251
+\i (00:00:43) trapsize 1348
+\i (00:00:44) zoom in 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in -31.0069 -8.9251
+\i (00:00:44) trapsize 674
+\i (00:00:44) pick grid -31.0070 -8.9250
+\t (00:00:44) last pick:  -30.4800 -10.1600
+\i (00:00:45) prepopup -29.1339 -5.9469
+\i (00:00:45) done 
+\i (00:00:46) generaledit 
+\i (00:00:46) zoom out 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom out -28.1636 -6.0682
+\i (00:00:46) trapsize 1348
+\i (00:00:46) zoom out 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom out -28.1367 -6.0682
+\i (00:00:46) trapsize 2695
+\i (00:00:47) zoom in 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom in -32.1255 -10.3803
+\i (00:00:47) trapsize 1348
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in -32.1255 -10.3803
+\i (00:00:48) trapsize 674
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in -32.1254 -10.3802
+\i (00:00:48) trapsize 337
+\i (00:00:48) zoom out 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out -32.1254 -10.3802
+\i (00:00:48) trapsize 674
+\i (00:00:49) zoom out 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom out -32.1254 -10.3801
+\i (00:00:49) trapsize 1348
+\i (00:00:49) zoom in 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom in -31.9099 -6.4722
+\i (00:00:49) trapsize 674
+\i (00:00:52) zoom out 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom out -28.1501 -9.4233
+\i (00:00:52) trapsize 1348
+\i (00:00:52) zoom in 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom in -30.4679 -9.4503
+\i (00:00:52) trapsize 674
+\i (00:00:52) zoom in 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom in -30.4679 -9.4503
+\i (00:00:52) trapsize 337
+\i (00:00:54) prmed 
+\i (00:00:56) setwindow form.prmedit
+\i (00:00:56) FORM prmedit ratsnest_display Straight 
+\i (00:00:57) FORM prmedit apply  
+\i (00:00:58) FORM prmedit done  
+\i (00:00:58) setwindow pcb
+\i (00:00:58) generaledit 
+\i (00:00:59) zoom out 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom out -31.2832 -10.1443
+\i (00:00:59) trapsize 674
+\i (00:00:59) zoom out 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom out -31.2832 -10.1443
+\i (00:00:59) trapsize 1348
+\i (00:00:59) zoom out 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom out -31.2832 -10.1443
+\i (00:00:59) trapsize 2695
+\i (00:00:59) zoom in 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom in -31.2764 -10.1444
+\i (00:00:59) trapsize 1348
+\i (00:01:00) zoom in 1 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) zoom in -31.2764 -10.1443
+\i (00:01:00) trapsize 674
+\i (00:01:02) unrats all 
+\i (00:01:02) generaledit 
+\i (00:01:03) zoom out 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom out -26.3173 -10.1848
+\i (00:01:03) trapsize 1348
+\i (00:01:03) zoom in 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom in -28.0422 -11.1011
+\i (00:01:03) trapsize 674
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out -28.0422 -11.1010
+\i (00:01:04) trapsize 1348
+\i (00:01:05) zoom out 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom out -25.4817 -10.4542
+\i (00:01:05) trapsize 2695
+\i (00:01:06) exit 
+\e (00:01:06) Do you want to save the changes you made to xZXC.brd?
+\i (00:01:07) fillin no 
+\t (00:01:08)     Journal end - Thu Dec 24 17:05:06 2020

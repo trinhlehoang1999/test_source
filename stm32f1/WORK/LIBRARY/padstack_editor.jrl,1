@@ -1,0 +1,10 @@
+\t (00:00:00) padstack_editor 17.2 P019 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Thu Dec 24 17:03:10 2020
+\t (00:00:00)         Host=DESKTOP-T7IU2JN User=HP Pid=6036 CPUs=8
+\t (00:00:00) CmdLine= padstack_editor -mpssession HP -file ./#Taaaaab11444.tmp -pname D0_55C1_05 -data C:/Users/HP/AppData/Local/Temp/#Taaaaad11444.tmp
+\t (00:00:00) 
+\d (00:00:08) QtSignal MainWindow SaveAs triggered
+\d (00:00:16) QtFillin d0_55c1_05.pad
+\d (00:00:17) QtFillin Yes
+\d (00:00:23) QtSignal MainWindow UpdateToDesignExit triggered
+\t (00:00:23)     Journal end - Thu Dec 24 17:03:33 2020

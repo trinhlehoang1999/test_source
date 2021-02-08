@@ -1,0 +1,54 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : STM32F103C8T6_KIT_DEV.brd                     )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Sat Dec 26 10:21:34 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U1 / STM32F103XX_1_LQFP48_STM32F103X / LQFP48 at (5.2540 25.2540)
+         Placed symbol:  J4 / HEADER 20_HEADER_20X1_HEADER 20 / HEADER_20X1 at (11.7130 45.6540)
+         Placed symbol:  J3 / HEADER 20_HEADER_20X1_HEADER 20 / HEADER_20X1 at (14.3770 45.6540)
+         Placed symbol:  J1 / HEADER 3X2/SM_HEADER_3X2_HEADER / HEADER_3X2 at (20.0960 22.9940)
+         Placed symbol:  U2 / RT9193_SOT-23-5_RT9193 / SOT-23-5 at (26.3880 22.5400)
+         Placed symbol:  U3 / USB-MICRO-2.0_USB-MICRO-B-2_0_U / USB-MICRO-B-2_0 at (33.6700 23.5040)
+         Placed symbol:  J2 / HEADER 4_HEADER_4X1_HEADER 4X1 / HEADER_4X1 at (40.3790 25.3340)
+         Placed symbol:  C2 / CAP NP_C0603_104 / C0603 at (43.1207 20.8890)
+         Placed symbol:  C3 / CAP NP_C0603_104 / C0603 at (45.9401 20.8890)
+         Placed symbol:  C4 / CAP NP_C0603_104 / C0603 at (48.7595 20.8890)
+         Placed symbol:  C5 / CAP NP_C0603_104 / C0603 at (51.5789 20.8890)
+         Placed symbol:  C14 / CAP NP_C0603_20P / C0603 at (1.5367 71.9430)
+         Placed symbol:  C9 / CAP NP_C0603_104 / C0603 at (4.3561 71.9430)
+         Placed symbol:  C8 / CAP NP_C0603_106 / C0603 at (7.1755 71.9430)
+         Placed symbol:  D1 / LED_LED_1206_SMD_3_2X1_6MM_LED / LED_1206_SMD_3_2X1_6MM at (11.2122 72.3080)
+         Placed symbol:  D2 / LED_LED_1206_SMD_3_2X1_6MM_LED / LED_1206_SMD_3_2X1_6MM at (16.4662 72.3080)
+         Placed symbol:  C12 / CAP NP_C0603_20P / C0603 at (20.5029 71.9430)
+         Placed symbol:  C6 / CAP NP_C0603_104 / C0603 at (23.3223 71.9430)
+         Placed symbol:  C11 / CAP NP_C0603_20P / C0603 at (26.1417 71.9430)
+         Placed symbol:  C10 / CAP NP_C0603_223 / C0603 at (28.9611 71.9430)
+         Placed symbol:  R1 / RESISTOR_R0603_10K / R0603 at (31.7805 71.9430)
+         Placed symbol:  R2 / RESISTOR_R0603_100K / R0603 at (34.5999 71.9430)
+         Placed symbol:  R3 / RESISTOR_R0603_100K / R0603 at (37.4193 71.9430)
+         Placed symbol:  R4 / RESISTOR_R0603_510R / R0603 at (40.2387 71.9430)
+         Placed symbol:  R5 / RESISTOR_R0603_510R / R0603 at (43.0581 71.9430)
+         Placed symbol:  R6 / RESISTOR_R0603_20R / R0603 at (45.8775 71.9430)
+         Placed symbol:  R7 / RESISTOR_R0603_20R / R0603 at (48.6969 71.9430)
+         Placed symbol:  R8 / RESISTOR_R0603_4.7K / R0603 at (51.5163 71.9430)
+         Placed symbol:  R9 / RESISTOR_R0603_1M / R0603 at (1.5367 74.1970)
+         Placed symbol:  SW1 / SW PUSHBUTTON_BUTTON_SMD_3X6MM_ / BUTTON_SMD_3X6MM at (7.6234 75.3620)
+         Placed symbol:  C7 / CAP NP_C0603_105 / C0603 at (13.7101 74.1970)
+         Placed symbol:  C13 / CAP NP_C0603_20P / C0603 at (16.5295 74.1970)
+         Placed symbol:  C1 / CAP NP_C0603_105 / C0603 at (19.3489 74.1970)
+         Placed symbol:  Y1 / CRYSTAL_MC306_32.768K / MC306 at (25.3116 76.2620)
+         Placed symbol:  Y2 / CRYSTAL_2PIN_SMD_HC49-S_8MHZ / 2PIN_SMD_HC49-S at (38.1156 75.9120)
+
+
+Placed 35 of 35 applicable (35 total) symbols.
+
+-----------------------------------------------------------------------
+

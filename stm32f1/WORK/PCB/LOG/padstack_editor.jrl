@@ -1,0 +1,28 @@
+\t (00:00:00) padstack_editor 17.2 P019 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sun Dec 27 20:40:50 2020
+\t (00:00:00)         Host=DESKTOP-T7IU2JN User=HP Pid=10236 CPUs=8
+\t (00:00:00) CmdLine= padstack_editor -mpssession HP -file ./#Taaaaad02972.tmp -pname D0_55C1_05 -data C:/Users/HP/AppData/Local/Temp/#Taaaaaf02972.tmp
+\t (00:00:00) 
+\d (00:00:05) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:10) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\d (00:00:12) QtSignal GuidedTabsParent PadstackTypes currentRowChanged 6
+\d (00:00:12) QtSignal GuidedTabsParent PadstackTypes itemSelectionChanged "Mechanical Hole"
+\d (00:00:12) QtSignal GuidedTabsParent PadstackTypes itemClicked "Mechanical Hole"
+\d (00:00:13) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\d (00:00:14) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:17) QtSignal GuidedDrillTab Plating CurrentIndexChanged Non-plated
+\d (00:00:17) QtSignal GuidedDrillTab Plating activated Non-plated
+\d (00:00:27) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\d (00:00:27) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:00:28) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:00:28) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:00:30) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:00:31) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:33) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:34) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:35) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:37) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:00:37) QtSignal GuidedTabsParent GuidedTabs currentChanged Summary
+\d (00:01:07) QtSignal MainWindow Save triggered
+\d (00:01:11) QtSignal MainWindow UpdateToDesignExit triggered
+\t (00:01:11)     Journal end - Sun Dec 27 20:42:02 2020

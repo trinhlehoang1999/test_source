@@ -1,0 +1,35 @@
+2020-12-29 21:07:04 8864     [INFO] Opened Board: STM32F103C8T6_KIT_DEV.hyp <E:\TRAING_ALLEGRO\TRAINNING2\PROJECT7\WORK\SIMULATION\>
+2020-12-29 21:09:20 8864     [INFO] Stackup Editor: All changes in Stackup will be lost! Do you really want to close Stackup Editor? - The "Yes" button was selected
+2020-12-29 21:14:57 8864  [WARNING] Export to Free-Form Schematic: The current stackup has no plane layers. LineSim will assume the presence of a distant ground to calculate impedances and delays. 
+2020-12-29 21:15:02 8864     [INFO] HyperLynx: Signal Net is not selected. Proceed anyway? - The "Yes" button was selected
+2020-12-29 21:15:31 11644     [INFO] Opened Schematic: E:\TRAING_ALLEGRO\TRAINNING2\PROJECT7\WORK\SIMULATION\nonet.ffs
+2020-12-29 21:17:55 11644    [ERROR] DC Engine failed: VRM U3 does not have any reference pins
+2020-12-29 21:20:06 11644     [INFO] Generating HTML report...
+2020-12-29 21:20:06 11644     [INFO] Opening report...
+2020-12-29 21:23:16 11644     [INFO] HyperLynx: Save changes to nonet.ffs? - The "No" button was selected
+2020-12-29 21:23:17 11644     [INFO] Closing Schematic: nonet.ffs
+2020-12-29 21:23:34 11644     [INFO] ****** Closing HyperLynx 
+2020-12-29 21:24:18 8864    [ERROR] Reference layer is required for IC power pins to be used in AC analysis (AC sources, probes, VRMs). You can press "YES" and proceed to use selected net in DC analysis.  - The "No" button was selected
+2020-12-29 21:24:29 8864    [ERROR] Reference layer is required for IC power pins to be used in AC analysis (AC sources, probes, VRMs). You can press "YES" and proceed to use selected net in DC analysis.  - The "Yes" button was selected
+2020-12-29 21:30:36 8864  [WARNING] Export to Free-Form Schematic: The current stackup has no plane layers. LineSim will assume the presence of a distant ground to calculate impedances and delays. 
+2020-12-29 21:30:55 8864     [INFO] HyperLynx: Signal Net is not selected. Proceed anyway? - The "Yes" button was selected
+2020-12-29 21:31:21 3816     [INFO] Opened Schematic: E:\TRAING_ALLEGRO\TRAINNING2\PROJECT7\WORK\SIMULATION\3_3V.ffs
+2020-12-29 21:37:53 3816     [INFO] HyperLynx: Save changes to 3_3V.ffs? - The "No" button was selected
+2020-12-29 21:37:54 3816     [INFO] Closing Schematic: 3_3V.ffs
+2020-12-29 21:38:12 3816     [INFO] ****** Closing HyperLynx 
+2020-12-29 21:39:12 8864  [WARNING] Export to Free-Form Schematic: The current stackup has no plane layers. LineSim will assume the presence of a distant ground to calculate impedances and delays. 
+2020-12-29 21:39:37 8864     [INFO] HyperLynx: No supply nets are selected. Proceed anyway? - The "No" button was selected
+2020-12-29 21:39:44 8864     [INFO] HyperLynx: Signal Net is not selected. Proceed anyway? - The "Yes" button was selected
+2020-12-29 21:39:45 8864  [WARNING] Warning: File "E:\TRAING_ALLEGRO\TRAINNING2\PROJECT7\WORK\SIMULATION\3_3V.ffs" exists. Do you want to overwrite it? - The "Yes" button was selected
+2020-12-29 21:40:11 2928     [INFO] Opened Schematic: E:\TRAING_ALLEGRO\TRAINNING2\PROJECT7\WORK\SIMULATION\3_3V.ffs
+2020-12-29 21:42:42 2928     [INFO] Generating HTML report...
+2020-12-29 21:42:42 2928     [INFO] Opening report...
+2020-12-29 21:47:36 2928     [INFO] HyperLynx: Save changes to 3_3V.ffs? - The "No" button was selected
+2020-12-29 21:47:38 2928     [INFO] Closing Schematic: 3_3V.ffs
+2020-12-29 21:47:39 8864     [INFO] Close HyperLynx Session: Design file: STM32F103C8T6_KIT_DEV.hyp Save session edits (Yes/No)?  YES -> save, then close NO  -> close - The "No" button was selected
+2020-12-29 21:47:45 8864     [INFO] Closing Design: STM32F103C8T6_KIT_DEV.hyp
+2020-12-29 21:47:55 8864     [INFO] ****** Closing HyperLynx 
+2020-12-29 21:48:00 2928     [INFO] ****** Closing HyperLynx 
+2021-01-01 15:00:38 3868     [INFO] HyperLynx: Save changes to Untitled.ffs? - The "No" button was selected
+2021-01-01 15:00:39 3868     [INFO] Closing Schematic: Untitled.ffs
+2021-01-01 15:00:45 3868     [INFO] ****** Closing HyperLynx 

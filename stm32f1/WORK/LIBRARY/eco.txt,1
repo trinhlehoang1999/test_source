@@ -1,0 +1,357 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  ZXC.brd                                                                     |
+|                                                    Thu Dec 24 17:01:51 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  5V           pins ADDED TO this new net
+                                 C7.1           J4.3           R8.2           
+                                 U2.1           U2.3           U3.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BOOT0        pins ADDED TO this new net
+                                 R2.1           U1.41          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BOOT1        pins ADDED TO this new net
+                                 R3.2           U1.20          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this new net
+                                 C1.2           C2.2           C3.2           
+                                 C4.2           C5.2           C6.2           
+                                 C7.2           C8.2           C9.2           
+                                 C10.2          C11.1          C12.1          
+                                 C13.1          C14.1          J1.5           
+                                 J1.6           J2.4           J3.19          
+                                 J3.20          J4.2           R4.2           
+                                 SW1.1          U1.8           U1.23          
+                                 U1.26          U1.38          U2.2           
+                                 U3.4           U3.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02981       pins ADDED TO this new net
+                                 J1.3           R2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03013       pins ADDED TO this new net
+                                 J1.4           R3.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03359       pins ADDED TO this new net
+                                 D1.1           R4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03363       pins ADDED TO this new net
+                                 D2.1           R5.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05848       pins ADDED TO this new net
+                                 C10.1          U2.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N07691       pins ADDED TO this new net
+                                 R6.1           U3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N07695       pins ADDED TO this new net
+                                 R7.1           U3.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OSCIN        pins ADDED TO this new net
+                                 C13.2          R9.1           U1.5           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  ZXC.brd                                                                     |
+|                                                    Thu Dec 24 17:01:51 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 Y2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OSCOUT       pins ADDED TO this new net
+                                 C14.2          R9.2           U1.6           
+                                 Y2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA0          pins ADDED TO this new net
+                                 J3.5           U1.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA1          pins ADDED TO this new net
+                                 J3.6           U1.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA2          pins ADDED TO this new net
+                                 J3.7           U1.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA3          pins ADDED TO this new net
+                                 J3.8           U1.13          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA4          pins ADDED TO this new net
+                                 J3.9           U1.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA5          pins ADDED TO this new net
+                                 J3.10          U1.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA6          pins ADDED TO this new net
+                                 J3.11          U1.16          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA7          pins ADDED TO this new net
+                                 J3.12          U1.17          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA8          pins ADDED TO this new net
+                                 J4.16          U1.32          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA9          pins ADDED TO this new net
+                                 J4.15          U1.31          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA10         pins ADDED TO this new net
+                                 J4.14          U1.30          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA11         pins ADDED TO this new net
+                                 J4.13          R6.2           U1.29          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA12         pins ADDED TO this new net
+                                 J4.12          R7.2           R8.1           
+                                 U1.28          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  ZXC.brd                                                                     |
+|                                                    Thu Dec 24 17:01:51 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  PA15         pins ADDED TO this new net
+                                 J4.11          U1.47          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB0          pins ADDED TO this new net
+                                 J3.13          U1.18          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB1          pins ADDED TO this new net
+                                 J3.14          U1.19          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB3          pins ADDED TO this new net
+                                 J4.10          U1.46          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB4          pins ADDED TO this new net
+                                 J4.9           U1.45          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB5          pins ADDED TO this new net
+                                 J4.8           U1.44          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB6          pins ADDED TO this new net
+                                 J4.7           U1.43          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB7          pins ADDED TO this new net
+                                 J4.6           U1.42          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB8          pins ADDED TO this new net
+                                 J4.5           U1.40          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB9          pins ADDED TO this new net
+                                 J4.4           U1.39          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB10         pins ADDED TO this new net
+                                 J3.15          U1.21          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB11         pins ADDED TO this new net
+                                 J3.16          U1.22          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB12         pins ADDED TO this new net
+                                 J4.20          U1.36          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB13         pins ADDED TO this new net
+                                 J4.19          U1.35          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB14         pins ADDED TO this new net
+                                 J4.18          U1.34          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  ZXC.brd                                                                     |
+|                                                    Thu Dec 24 17:01:51 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  PB15         pins ADDED TO this new net
+                                 J4.17          U1.33          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PC13         pins ADDED TO this new net
+                                 J3.2           R5.2           U1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PC14         pins ADDED TO this new net
+                                 C12.2          J3.3           U1.3           
+                                 Y1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PC15         pins ADDED TO this new net
+                                 C11.2          J3.4           U1.4           
+                                 Y1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RESET        pins ADDED TO this new net
+                                 C1.1           J3.17          R1.2           
+                                 SW1.2          U1.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SWCLK        pins ADDED TO this new net
+                                 J2.3           U1.48          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SWIO         pins ADDED TO this new net
+                                 J2.2           U1.27          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VBAT         pins ADDED TO this new net
+                                 J3.1           U1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC3V3       pins ADDED TO this new net
+                                 C2.1           C3.1           C4.1           
+                                 C5.1           C6.1           C8.1           
+                                 C9.1           D1.2           D2.2           
+                                 J1.1           J1.2           J2.1           
+                                 J3.18          J4.1           R1.1           
+                                 U1.9           U1.24          U1.25          
+                                 U1.37          U2.5           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  ZXC.brd                                                                     |
+|                                                    Thu Dec 24 17:01:51 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CAP NP_C0603_104
+ CAP NP_C0603_105
+ CAP NP_C0603_106
+ CAP NP_C0603_223
+ CAP NP_C0603_20P
+ CRYSTAL_2PIN_SMD_HC49-S_8MHZ
+ CRYSTAL_MC306_32.768K
+ HEADER 20_HEADER_20X1_HEADER 20
+ HEADER 3X2/SM_HEADER_3X2_HEADER
+ HEADER 4_HEADER_4X1_HEADER 4X1
+ LED_LED_1206_SMD_3_2X1_6MM_LED
+ RESISTOR_R0603_100K
+ RESISTOR_R0603_10K
+ RESISTOR_R0603_1M
+ RESISTOR_R0603_20R
+ RESISTOR_R0603_4.7K
+ RESISTOR_R0603_510R
+ RT9193_SOT-23-5_RT9193
+ STM32F103XX_1_LQFP48_STM32F103X
+ SW PUSHBUTTON_BUTTON_SMD_3X6MM_
+ USB-MICRO-2.0_USB-MICRO-B-2_0_U
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  ZXC.brd                                                                     |
+|                                                    Thu Dec 24 17:01:51 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP NP_C0603_105      
+ C2                  CAP NP_C0603_104      
+ C3                  CAP NP_C0603_104      
+ C4                  CAP NP_C0603_104      
+ C5                  CAP NP_C0603_104      
+ C6                  CAP NP_C0603_104      
+ C7                  CAP NP_C0603_105      
+ C8                  CAP NP_C0603_106      
+ C9                  CAP NP_C0603_104      
+ C10                 CAP NP_C0603_223      
+ C11                 CAP NP_C0603_20P      
+ C12                 CAP NP_C0603_20P      
+ C13                 CAP NP_C0603_20P      
+ C14                 CAP NP_C0603_20P      
+ D1                  LED_LED_1206_SMD_3_2X1_6MM_LED 
+ D2                  LED_LED_1206_SMD_3_2X1_6MM_LED 
+ J1                  HEADER 3X2/SM_HEADER_3X2_HEADER 
+ J2                  HEADER 4_HEADER_4X1_HEADER 4X1 
+ J3                  HEADER 20_HEADER_20X1_HEADER 20 
+ J4                  HEADER 20_HEADER_20X1_HEADER 20 
+ R1                  RESISTOR_R0603_10K    
+ R2                  RESISTOR_R0603_100K   
+ R3                  RESISTOR_R0603_100K   
+ R4                  RESISTOR_R0603_510R   
+ R5                  RESISTOR_R0603_510R   
+ R6                  RESISTOR_R0603_20R    
+ R7                  RESISTOR_R0603_20R    
+ R8                  RESISTOR_R0603_4.7K   
+ R9                  RESISTOR_R0603_1M     
+ SW1                 SW PUSHBUTTON_BUTTON_SMD_3X6MM_ 
+ U1                  STM32F103XX_1_LQFP48_STM32F103X 
+ U2                  RT9193_SOT-23-5_RT9193 
+ U3                  USB-MICRO-2.0_USB-MICRO-B-2_0_U 
+ Y1                  CRYSTAL_MC306_32.768K 
+ Y2                  CRYSTAL_2PIN_SMD_HC49-S_8MHZ 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  ZXC.brd                                                                     |
+|                                                    Thu Dec 24 17:01:51 2020  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ C6.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C8.2                           PRIM_FILE      .\pstchip.dat
+ C9.2                           PRIM_FILE      .\pstchip.dat
+ C10.2                          PRIM_FILE      .\pstchip.dat
+ C11.2                          PRIM_FILE      .\pstchip.dat
+ C12.2                          PRIM_FILE      .\pstchip.dat
+ C13.2                          PRIM_FILE      .\pstchip.dat
+ C14.2                          PRIM_FILE      .\pstchip.dat
+ D1.1                           PRIM_FILE      .\pstchip.dat
+ D2.1                           PRIM_FILE      .\pstchip.dat
+ J1.6                           PRIM_FILE      .\pstchip.dat
+ J2.4                           PRIM_FILE      .\pstchip.dat
+ J3.9                           PRIM_FILE      .\pstchip.dat
+ J4.9                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ SW1.2                          PRIM_FILE      .\pstchip.dat
+ U1.47                          PRIM_FILE      .\pstchip.dat
+ U2.5                           PRIM_FILE      .\pstchip.dat
+ U3.1                           PRIM_FILE      .\pstchip.dat
+ Y1.2                           PRIM_FILE      .\pstchip.dat
+ Y2.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  ZXC.brd                                                                     |
+|                                                    Thu Dec 24 17:01:51 2020  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :     164                                        |
+|       Comp definitions added:      21                                        |
+|       Components added      :      35                                        |
+|       Slot property added   :      35                                        |
+|                                                                              |
+|   Total ECO changes reported:     255                                        |
+|------------------------------------------------------------------------------|

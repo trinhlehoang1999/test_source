@@ -1,0 +1,63 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : STM32F103C8T6_KIT_DEV.brd                     )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Thu Dec 24 17:18:34 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U1 / STM32F103XX_1_LQFP48_STM32F103X / LQFP48 at (5.2032 35.2032)
+         Placed symbol:  J4 / HEADER 20_HEADER_20X1_HEADER 20 / HEADER_20X1 at (11.6114 55.6032)
+         Placed symbol:  J3 / HEADER 20_HEADER_20X1_HEADER 20 / HEADER_20X1 at (14.2246 55.6032)
+         Placed symbol:  J1 / HEADER 3X2/SM_HEADER_3X2_HEADER / HEADER_3X2 at (19.8928 32.9432)
+         Placed symbol:  U2 / RT9193_SOT-23-5_RT9193 / SOT-23-5 at (26.1340 32.4892)
+         Placed symbol:  U3 / USB-MICRO-2.0_USB-MICRO-B-2_0_U / USB-MICRO-B-2_0 at (33.3652 33.4532)
+         Placed symbol:  J2 / HEADER 4_HEADER_4X1_HEADER 4X1 / HEADER_4X1 at (40.0234 35.2832)
+         Placed symbol:  C2 / CAP NP_C0603_104 / C0603 at (43.0566 30.9032)
+         Placed symbol:  C3 / CAP NP_C0603_104 / C0603 at (46.5098 30.9032)
+         Placed symbol:  C4 / CAP NP_C0603_104 / C0603 at (1.8282 81.9064)
+         Placed symbol:  C5 / CAP NP_C0603_104 / C0603 at (5.2814 81.9064)
+         Placed symbol:  C14 / CAP NP_C0603_20P / C0603 at (8.7346 81.9064)
+         Placed symbol:  C9 / CAP NP_C0603_104 / C0603 at (12.1878 81.9064)
+         Placed symbol:  C8 / CAP NP_C0603_106 / C0603 at (15.6410 81.9064)
+         Placed symbol:  D1 / LED_LED_1206_SMD_3_2X1_6MM_LED / LED_1206_SMD_3_2X1_6MM at (19.9692 82.2064)
+         Placed symbol:  D2 / LED_LED_1206_SMD_3_2X1_6MM_LED / LED_1206_SMD_3_2X1_6MM at (25.1724 82.2064)
+         Placed symbol:  C12 / CAP NP_C0603_20P / C0603 at (29.5006 81.9064)
+         Placed symbol:  C6 / CAP NP_C0603_104 / C0603 at (32.9538 81.9064)
+         Placed symbol:  C11 / CAP NP_C0603_20P / C0603 at (36.4070 81.9064)
+         Placed symbol:  C10 / CAP NP_C0603_223 / C0603 at (39.8602 81.9064)
+ERROR:   Cannot place symbol:  R1 / RESISTOR_R0603_10K / R0603
+         due to ERROR(SPMHA1-150): Symbol does not fit into the drawing ... reposition the symbol.
+ERROR:   Cannot place symbol:  R2 / RESISTOR_R0603_100K / R0603
+         due to ERROR(SPMHA1-150): Symbol does not fit into the drawing ... reposition the symbol.
+ERROR:   Cannot place symbol:  R3 / RESISTOR_R0603_100K / R0603
+         due to ERROR(SPMHA1-150): Symbol does not fit into the drawing ... reposition the symbol.
+ERROR:   Cannot place symbol:  R4 / RESISTOR_R0603_510R / R0603
+         due to ERROR(SPMHA1-150): Symbol does not fit into the drawing ... reposition the symbol.
+ERROR:   Cannot place symbol:  R5 / RESISTOR_R0603_510R / R0603
+         due to ERROR(SPMHA1-150): Symbol does not fit into the drawing ... reposition the symbol.
+ERROR:   Cannot place symbol:  R6 / RESISTOR_R0603_20R / R0603
+         due to ERROR(SPMHA1-150): Symbol does not fit into the drawing ... reposition the symbol.
+ERROR:   Cannot place symbol:  R7 / RESISTOR_R0603_20R / R0603
+         due to ERROR(SPMHA1-150): Symbol does not fit into the drawing ... reposition the symbol.
+ERROR:   Cannot place symbol:  R8 / RESISTOR_R0603_4.7K / R0603
+         due to ERROR(SPMHA1-150): Symbol does not fit into the drawing ... reposition the symbol.
+ERROR:   Cannot place symbol:  R9 / RESISTOR_R0603_1M / R0603
+         due to ERROR(SPMHA1-150): Symbol does not fit into the drawing ... reposition the symbol.
+         Placed symbol:  SW1 / SW PUSHBUTTON_BUTTON_SMD_3X6MM_ / BUTTON_SMD_3X6MM at (21.3648 85.2096)
+         Placed symbol:  C7 / CAP NP_C0603_105 / C0603 at (27.7430 84.1096)
+         Placed symbol:  C13 / CAP NP_C0603_20P / C0603 at (31.1962 84.1096)
+         Placed symbol:  C1 / CAP NP_C0603_105 / C0603 at (34.6494 84.1096)
+         Placed symbol:  Y1 / CRYSTAL_MC306_32.768K / MC306 at (40.9036 86.1096)
+WARNING: Could not place:  Y2 / CRYSTAL_2PIN_SMD_HC49-S_8MHZ / 2PIN_SMD_HC49-S; outside of drawing extents
+
+
+Placed 25 of 35 applicable (35 total) symbols.
+
+-----------------------------------------------------------------------
+

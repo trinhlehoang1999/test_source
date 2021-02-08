@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Summary</title>
+        <link href="css/base.css" rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+    <body>
+        <div class="container-fluid" id="content">
+            <h2>Summary</h2>
+<div class="panel panel-primary pyr-container" id="container_0">
+    <div class="panel-heading">
+        <h3 class="panel-title">Design: nonet.ffs</h3>
+    </div>
+    <div class="panel-body">
+<div class="panel annotation pyr-component" id="annotation_0" name="annotation_0">
+    <div class="panel-body">
+HyperLynx VX.2.5 Power Integrity<br><br>Date: 12/29/20 21:19:36    </div>
+</div>    </div>
+</div><div class="panel panel-primary pyr-container" id="container_1">
+    <div class="panel-heading">
+        <h3 class="panel-title">DC Drop Summary: 5V</h3>
+    </div>
+    <div class="panel-body">
+<div class="panel table pyr-component" id="table_0" name="DC Drop Analysis Summary">
+    <div class="panel-body">
+<h3>DC Drop Analysis Summary</h3><table class="table table-hover table-condensed"
+           data-toggle="table"
+           data-search="true"
+           data-show-export="true"
+           data-show-columns="true"
+           data-show-toggle="true"
+           data-show-export="true"
+           data-sortable="true"
+           data-filter-control="true">
+    <thead class="bg-warning">
+
+        <tr>
+            <th data-field="table_0_uid"
+                data-sortable="true"
+                data-searchable="false"
+                data-switchable="false"
+                class="text-center">#</th>
+            <th data-field="table_0_col_0" class="text-center"
+                data-sortable="true"
+                data-sorter="Pyr.tableSorter"
+                data-filter-control="input">Measurement</th>
+            <th data-field="table_0_col_1" class="text-center"
+                data-sortable="true"
+                data-sorter="Pyr.tableSorter"
+                data-filter-control="input">Test</th>
+            <th data-field="table_0_col_2" class="text-center"
+                data-sortable="true"
+                data-sorter="Pyr.tableSorter"
+                data-filter-control="input">Constraint</th>
+            <th data-field="table_0_col_3" class="text-center"
+                data-sortable="true"
+                data-sorter="Pyr.tableSorter"
+                data-filter-control="input">Max Value</th>
+            <th data-field="table_0_col_4" class="text-center"
+                data-sortable="true"
+                data-sorter="Pyr.tableSorter"
+                data-filter-control="input">Location</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <tr id="table_0_row_0">
+            <td>1</td>
+            <td>Max Voltage Drop</td>
+            <td class="success">PASS</td>
+            <td>5.000%</td>
+            <td><b>NET 5V: 0.038% (1.9mV)</b></td>
+            <td>pin <a onclick="Pyr.launchCommand('wscript runPowerScope.vbs &quot;DC_Drop_Test.tps&quot; 1 0 0.04655 0.001967 1')" class="pyr-launch">J4.3</a></td>
+        </tr>
+        <tr id="table_0_row_1">
+            <td>2</td>
+            <td>Max Current Density</td>
+            <td class="success">PASS</td>
+            <td>10.00mA/mil2</td>
+            <td><b>5.74mA/mil2</b></td>
+            <td><a onclick="Pyr.launchCommand('wscript runPowerScope.vbs &quot;DC_Drop_Test.tps&quot; 1 0 0.006322 0.0165417 0 TOP')" class="pyr-launch">(0.249, 0.651)</a>, layer TOP</td>
+        </tr>
+        <tr id="table_0_row_2">
+            <td>3</td>
+            <td>Max Via Current</td>
+            <td class="success">PASS</td>
+            <td>1000.0mA</td>
+            <td><b>143.8mA</b></td>
+            <td><a onclick="Pyr.launchCommand('wscript runPowerScope.vbs &quot;DC_Drop_Test.tps&quot; 1 0 0.007239 0.0175514 2 TOP BOTTOM')" class="pyr-launch">(0.285, 0.691)</a> between layers TOP and BOTTOM</td>
+        </tr>
+    </tbody>
+
+</table>    </div>
+</div><div class="panel annotation pyr-component" id="annotation_1" name="annotation_1">
+    <div class="panel-body">
+<a onclick="Pyr.launchCommand('wscript runPowerScope.vbs &quot;DC_Drop_Test.tps&quot; 1 0')" class="pyr-launch">Load PowerScope Data</a>    </div>
+</div>    </div>
+</div>        </div>
+
+        <script src="js/qtwebkit_fix.js"></script>
+        <script src="js/jquery.js"></script>
+        <script src="js/bootstrap.js"></script>
+        <script src="js/bootstrap-table.js"></script>
+        <script src="js/bootstrap-table-export.js"></script>
+        <script src="js/filesaver.js"></script>
+        <script src="js/bootstrap-table-filter-control.js"></script>
+        <script src="js/tableExport.js"></script>
+        <script src="js/plotly.js"></script>
+        <script src="js/pyreport.js"></script>
+    </body>
+</html>

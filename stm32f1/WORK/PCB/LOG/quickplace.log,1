@@ -1,0 +1,69 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : STM32F103C8T6_KIT_DEV.brd                     )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Thu Dec 24 17:16:59 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  U1 / STM32F103XX_1_LQFP48_STM32F103X / LQFP48
+ERROR:   Could not find symbol:  J4 / HEADER 20_HEADER_20X1_HEADER 20 / HEADER_20X1
+ERROR:   Could not find symbol:  J3 / HEADER 20_HEADER_20X1_HEADER 20 / HEADER_20X1
+ERROR:   Could not find symbol:  J1 / HEADER 3X2/SM_HEADER_3X2_HEADER / HEADER_3X2
+ERROR:   Could not find symbol:  U2 / RT9193_SOT-23-5_RT9193 / SOT-23-5
+ERROR:   Could not find symbol:  U3 / USB-MICRO-2.0_USB-MICRO-B-2_0_U / USB-MICRO-B-2_0
+ERROR:   Could not find symbol:  J2 / HEADER 4_HEADER_4X1_HEADER 4X1 / HEADER_4X1
+ERROR:   Could not find symbol:  D2 / LED_LED_1206_SMD_3_2X1_6MM_LED / LED_1206_SMD_3_2X1_6MM
+ERROR:   Could not find symbol:  R2 / RESISTOR_R0603_100K / R0603
+ERROR:   Could not find symbol:  R1 / RESISTOR_R0603_10K / R0603
+ERROR:   Could not find symbol:  R3 / RESISTOR_R0603_100K / R0603
+ERROR:   Could not find symbol:  R6 / RESISTOR_R0603_20R / R0603
+ERROR:   Could not find symbol:  R7 / RESISTOR_R0603_20R / R0603
+ERROR:   Could not find symbol:  R8 / RESISTOR_R0603_4.7K / R0603
+ERROR:   Could not find symbol:  R9 / RESISTOR_R0603_1M / R0603
+ERROR:   Could not find symbol:  SW1 / SW PUSHBUTTON_BUTTON_SMD_3X6MM_ / BUTTON_SMD_3X6MM
+ERROR:   Could not find symbol:  R4 / RESISTOR_R0603_510R / R0603
+ERROR:   Could not find symbol:  D1 / LED_LED_1206_SMD_3_2X1_6MM_LED / LED_1206_SMD_3_2X1_6MM
+ERROR:   Could not find symbol:  R5 / RESISTOR_R0603_510R / R0603
+ERROR:   Could not find symbol:  Y1 / CRYSTAL_MC306_32.768K / MC306
+ERROR:   Could not find symbol:  Y2 / CRYSTAL_2PIN_SMD_HC49-S_8MHZ / 2PIN_SMD_HC49-S
+
+
+Placed 0 of 21 applicable (21 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  U1 / STM32F103XX_1_LQFP48_STM32F103X / LQFP48
+ERROR:   Could not find symbol:  J4 / HEADER 20_HEADER_20X1_HEADER 20 / HEADER_20X1
+ERROR:   Could not find symbol:  J3 / HEADER 20_HEADER_20X1_HEADER 20 / HEADER_20X1
+ERROR:   Could not find symbol:  J1 / HEADER 3X2/SM_HEADER_3X2_HEADER / HEADER_3X2
+ERROR:   Could not find symbol:  U2 / RT9193_SOT-23-5_RT9193 / SOT-23-5
+ERROR:   Could not find symbol:  U3 / USB-MICRO-2.0_USB-MICRO-B-2_0_U / USB-MICRO-B-2_0
+ERROR:   Could not find symbol:  J2 / HEADER 4_HEADER_4X1_HEADER 4X1 / HEADER_4X1
+ERROR:   Could not find symbol:  D2 / LED_LED_1206_SMD_3_2X1_6MM_LED / LED_1206_SMD_3_2X1_6MM
+ERROR:   Could not find symbol:  R2 / RESISTOR_R0603_100K / R0603
+ERROR:   Could not find symbol:  R1 / RESISTOR_R0603_10K / R0603
+ERROR:   Could not find symbol:  R3 / RESISTOR_R0603_100K / R0603
+ERROR:   Could not find symbol:  R6 / RESISTOR_R0603_20R / R0603
+ERROR:   Could not find symbol:  R7 / RESISTOR_R0603_20R / R0603
+ERROR:   Could not find symbol:  R8 / RESISTOR_R0603_4.7K / R0603
+ERROR:   Could not find symbol:  R9 / RESISTOR_R0603_1M / R0603
+ERROR:   Could not find symbol:  SW1 / SW PUSHBUTTON_BUTTON_SMD_3X6MM_ / BUTTON_SMD_3X6MM
+ERROR:   Could not find symbol:  R4 / RESISTOR_R0603_510R / R0603
+ERROR:   Could not find symbol:  D1 / LED_LED_1206_SMD_3_2X1_6MM_LED / LED_1206_SMD_3_2X1_6MM
+ERROR:   Could not find symbol:  R5 / RESISTOR_R0603_510R / R0603
+ERROR:   Could not find symbol:  Y1 / CRYSTAL_MC306_32.768K / MC306
+ERROR:   Could not find symbol:  Y2 / CRYSTAL_2PIN_SMD_HC49-S_8MHZ / 2PIN_SMD_HC49-S
+
+
+Placed 0 of 21 applicable (21 total) symbols.
+
+-----------------------------------------------------------------------
+

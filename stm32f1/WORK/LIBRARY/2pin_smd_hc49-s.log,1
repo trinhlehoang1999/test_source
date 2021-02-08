@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : 2PIN_SMD_HC49-S.dra                           )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Tue Dec 22 21:10:18 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/LIBRARY
+    Name      = 2pin_smd_hc49-s.psm
+    User      = HP
+    Machine   = DESKTOP-T7IU2JN
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,9 @@
+\t (00:00:00) padstack_editor 17.2 P019 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sun Feb 07 08:28:51 2021
+\t (00:00:00)         Host=DESKTOP-TC65L0O User=trinh Pid=10524 CPUs=4
+\t (00:00:00) CmdLine= padstack_editor -mpssession trinh -file ./#Taaaaam02988.tmp -pname 1_162X1_504SM -data C:/Users/trinh/AppData/Local/Temp/#Taaaaao02988.tmp
+\t (00:00:00) 
+\d (00:00:05) QtSignal MainWindow SaveAs triggered
+\d (00:00:08) QtFillin 1_162X1_504SM.pad
+\d (00:00:11) QtFillin No
+\t (00:00:16)     Journal end - Sun Feb 07 08:29:07 2021

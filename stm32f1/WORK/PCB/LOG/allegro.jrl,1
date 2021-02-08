@@ -1,0 +1,58 @@
+\t (00:00:03) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Mon Dec 28 22:04:35 2020
+\t (00:00:03)         Host=DESKTOP-T7IU2JN User=HP Pid=5320 CPUs=8
+\t (00:00:03) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe E:\TRAING_ALLEGRO\TRAINNING2\PROJECT7\WORK\PCB\STM32F103C8T6_KIT_DEV_2.brd
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+   (00:00:03) Hello. I'm TRUONG 
+   (00:00:03) Hello. I'm TRUONG 
+   (00:00:03) Hello. I'm TRUONG 
+   (00:00:03) Hello. I'm TRUONG 
+   (00:00:03) Hello. I'm TRUONG 
+\t (00:00:07) Opening existing design...
+\d (00:00:07) Design opened: E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/PCB/STM32F103C8T6_KIT_DEV_2.brd
+\i (00:00:08) trapsize 27709
+\i (00:00:08) trapsize 28373
+\i (00:00:08) trapsize 28668
+\i (00:00:08) trapsize 28668
+\i (00:00:09) generaledit 
+\i (00:00:14) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SUB_PNL"
+\i (00:00:14) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SUB_PNL"
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 3206.355 1269.333
+\i (00:00:15) trapsize 57336
+\i (00:00:18) artwork 
+\i (00:00:20) setwindow form.film_control
+\i (00:00:20) FORM film_control filmtree  SUB_PNL 
+\i (00:00:22) FORM film_control undefined_line_width 6 
+\i (00:00:22) FORM film_control ok  
+\i (00:00:22) setwindow pcb
+\i (00:00:22) generaledit 
+\i (00:00:29) artwork 
+\i (00:00:31) setwindow form.film_control
+\i (00:00:31) FORM film_control filmtree 'MULTISEL YES' SUB_PNL 
+\i (00:00:31) FORM film_control filmtree  SUB_PNL 
+\i (00:00:33) FORM film_control create  
+\i (00:00:34) fillin yes 
+\t (00:00:34) Checking db records
+\t (00:00:34)     checking for orphans...
+\t (00:00:34)     Checked  74 percent
+\t (00:00:34)     Checked 100 percent
+\w (00:00:34) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:00:34) Done dbdoctor.
+\t (00:00:34) Starting Create artwork films...
+\w (00:00:36) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:00:37) Artwork generated with warnings.
+\i (00:00:41) setwindow text
+\i (00:00:41) close 
+\i (00:00:41) setwindow form.film_control
+\i (00:00:41) FORM film_control cancel  
+\i (00:00:42) setwindow pcb
+\i (00:00:42) generaledit 
+\i (00:00:42) exit 
+\e (00:00:43) Do you want to save the changes you made to STM32F103C8T6_KIT_DEV_2.brd?
+\i (00:00:44) fillin yes 
+   (00:00:44) Loading signal.cxt 
+\t (00:00:44)     Journal end - Mon Dec 28 22:05:17 2020

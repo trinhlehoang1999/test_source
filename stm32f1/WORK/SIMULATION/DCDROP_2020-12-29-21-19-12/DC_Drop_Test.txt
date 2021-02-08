@@ -1,0 +1,50 @@
+<design>nonet.ffs</design>
+<message>HyperLynx SI/PI/Thermal VX.2.5</message>
+<message>12/29/20 21:19:36</message>
+<message>Design: nonet.ffs</message>
+<message>Design folder: E:\TRAING_ALLEGRO\TRAINNING2\PROJECT7\WORK\SIMULATION\</message>
+<message>Designer: HP</message>
+<message>HyperLynx VX.2.5 Power Integrity</message>
+<message>DC Drop Analysis Results for 5V</message>
+<message>\n</message>
+<message>    Pin          Current(A) Voltage(V)</message>
+<message>--------------------------------------</message>
+<message>NET 5V</message>
+<message>  1 <link type=LOCATION x=0.04655 y=0.001967 elemType=PIN>J4.3</link>             0.1333     4.9981</message>
+<message>  2 <link type=LOCATION x=0.007366 y=0.0218694 elemType=PIN>U2.1</link>             0.1333     4.9992</message>
+<message>  3 <link type=LOCATION x=0.007366 y=0.023749 elemType=PIN>U2.3</link>             0.1333     4.9991</message>
+<message>  4 <link type=LOCATION x=0.00561701 y=0.0163 elemType=PIN>U3.1</link>            -0.4000     4.9996</message>
+<message>\n</message>
+<message>\n</message>
+<message>Voltage source vias (or pads)</message>
+<message>DCPort Location(X, Y)     Diameter Layer Current(A) Voltage(V)</message>
+<message>--------------------------------------------------------------</message>
+<message>NET 5V</message>
+<message>  1    <link type=LOCATION x=0.00561701 y=0.0163 elemType=VIA>(<coord format=%7.3f>0.00561701</coord>, <coord format=%7.3f>0.0163</coord>)</link>  <coord format=%7.3f>0.00135002</coord>     1    -0.4000     4.9996</message>
+<message>\n</message>
+<message>Current sink vias (or pads)</message>
+<message>DCPort Location(X, Y)     Diameter Layer Current(A) Voltage(V)</message>
+<message>--------------------------------------------------------------</message>
+<message>NET 5V</message>
+<message>  1    <link type=LOCATION x=0.007366 y=0.0218694 elemType=VIA>(<coord format=%7.3f>0.007366</coord>, <coord format=%7.3f>0.0218694</coord>)</link>  <coord format=%7.3f>0.0012192</coord>     2     0.1333     4.9992</message>
+<message>  2    <link type=LOCATION x=0.007366 y=0.023749 elemType=VIA>(<coord format=%7.3f>0.007366</coord>, <coord format=%7.3f>0.023749</coord>)</link>  <coord format=%7.3f>0.0012192</coord>     2     0.1333     4.9991</message>
+<message>  3    <link type=LOCATION x=0.04655 y=0.001967 elemType=VIA>(<coord format=%7.3f>0.04655</coord>, <coord format=%7.3f>0.001967</coord>)</link>  <coord format=%7.3f>0.00152001</coord>     1     0.1333     4.9981</message>
+<message>\n</message>
+<message>Other vias</message>
+<message>Via Location(X, Y)     Diameter    Layers Current(A) Voltage drop(mV)</message>
+<message>-----------------------------------------------------------------------</message>
+<message>NET 5V</message>
+<message>  1 <link type=LOCATION x=0.0064262 y=0.0184404 elemType=VIA>(<coord format=%7.3f>0.0064262</coord>, <coord format=%7.3f>0.0184404</coord>)</link>  <coord format=%7.3f>0.0005715</coord>     1 - 2     0.1195             0.03</message>
+<message>  2 <link type=LOCATION x=0.0080772 y=0.0184404 elemType=VIA>(<coord format=%7.3f>0.0080772</coord>, <coord format=%7.3f>0.0184404</coord>)</link>  <coord format=%7.3f>0.0005715</coord>     1 - 2     0.1367             0.03</message>
+<message>  3 <link type=LOCATION x=0.04655 y=0.001967 elemType=VIA>(<coord format=%7.3f>0.04655</coord>, <coord format=%7.3f>0.001967</coord>)</link>  <coord format=%7.3f>0.00108348</coord>     1 - 2    -0.1333            -0.02</message>
+<message>  4 <link type=LOCATION x=0.007239 y=0.0175514 elemType=VIA>(<coord format=%7.3f>0.007239</coord>, <coord format=%7.3f>0.0175514</coord>)</link>  <coord format=%7.3f>0.0005715</coord>     1 - 2     0.1438             0.04</message>
+<message>\n</message>
+<message>Layer Legend</message>
+<message> ID      Layer Name</message>
+<message>------------------------</message>
+<message>  1      TOP</message>
+<message>  2      BOTTOM</message>
+<message>\n</message>
+<message>NET 5V: Max Voltage Drop 0.038% (1.9mV) at pin <link type=LOCATION x=0.04655 y=0.001967 elemType=PIN>J4.3</link>. Constraint met (5.000%).</message>
+<message>Max Current Density <cdensity format=%.1f show_units=yes>8.90158e+006</cdensity> at <link type=LOCATION x=0.006322 y=0.0165417>(<coord>0.006322</coord>, <coord>0.0165417</coord>)</link>, layer TOP. Constraint met (<cdensity format=%.1f show_units=yes>1.55e+007</cdensity>).</message>
+<message>Max Via Current 143.8mA at <link type=LOCATION x=0.007239 y=0.0175514 elemType=VIA>(<coord>0.007239</coord>, <coord>0.0175514</coord>)</link> between layers 1 and 2. Constraint met (1000.0mA).</message>

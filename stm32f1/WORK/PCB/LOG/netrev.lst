@@ -1,0 +1,92 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : STM32F103C8T6_KIT_DEV.brd                     )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Thu Dec 24 17:13:55 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/SCHEMATIC/allegro'
+Design Directory:            '.'
+Old design name:             'E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/PCB/STM32F103C8T6_KIT_DEV.brd'
+New design name:             'E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/PCB/STM32F103C8T6_KIT_DEV.brd'
+
+CmdLine: netrev -$ -i E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/SCHEMATIC/allegro -y 1 -z -q netrev_constraint_report.xml E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/PCB/#Taaaadu09704.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/SCHEMATIC/allegro/pstchip.dat 
+   Finished reading E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/SCHEMATIC/allegro/pstchip.dat (00:00:00.05)
+Starting to read E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/SCHEMATIC/allegro/pstxprt.dat 
+   Finished reading E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/SCHEMATIC/allegro/pstxprt.dat (00:00:00.00)
+Starting to read E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/SCHEMATIC/allegro/pstxnet.dat 
+   Finished reading E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/SCHEMATIC/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_17.2/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/LIBRARY/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/LIBRARY/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Dec 24 17:13:55 2020
+   DESIGN NAME : 'STM32F103C8T6_KIT_DEV'
+   PACKAGING ON Mar  2 2016 00:37:24
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:01:44
+elapsed time  0:00:01
+

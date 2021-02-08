@@ -1,0 +1,360 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Dec-22-2020 at 22:19:06 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='STM32F103C8T6_KIT_DEV';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_C0603_105':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS2243@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins2243@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins2243@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_C0603_223':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS5738@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins5738@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins5738@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_C0603_20P':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS8181@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins8181@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins8181@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_C0603_20P':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS8207@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins8207@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins8207@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_C0603_20P':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS8243@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins8243@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins8243@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_C0603_20P':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS8259@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins8259@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins8259@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_C0603_104':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS3566@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins3566@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins3566@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_C0603_104':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS4837@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins4837@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins4837@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_C0603_104':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS5059@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins5059@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins5059@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_C0603_104':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS5215@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins5215@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins5215@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_C0603_104':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS5231@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins5231@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins5231@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_C0603_105':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS5394@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins5394@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins5394@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_C0603_106':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS5686@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins5686@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins5686@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_C0603_104':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS5712@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins5712@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins5712@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_LED_1206_SMD_3_2X1_6MM_LED':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS3165@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins3165@discrete.\led.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins3165@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_LED_1206_SMD_3_2X1_6MM_LED':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS3181@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins3181@discrete.\led.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins3181@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER 3X2/SM_HEADER_3X2_HEADER':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS2722@CONNECTOR.HEADER 3X2/SM.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins2722@connector.\header 3x2/sm.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins2722@connector.\header 3x2/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'HEADER 4_HEADER_4X1_HEADER 4X1':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS3536@CONNECTOR.HEADER 4.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins3536@connector.\header 4.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins3536@connector.\header 4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'HEADER 20_HEADER_20X1_HEADER 20':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS8952@CONNECTOR.HEADER 20.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins8952@connector.\header 20.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins8952@connector.\header 20.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'HEADER 20_HEADER_20X1_HEADER 20':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS9004@CONNECTOR.HEADER 20.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins9004@connector.\header 20.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins9004@connector.\header 20.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS2218@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins2218@discrete.\resistor.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins2218@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_R0603_100K':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS2965@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins2965@discrete.\resistor.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins2965@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_R0603_100K':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS2997@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins2997@discrete.\resistor.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins2997@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_R0603_510R':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS3317@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins3317@discrete.\resistor.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins3317@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_R0603_510R':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS3343@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins3343@discrete.\resistor.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins3343@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR_R0603_20R':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS7649@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins7649@discrete.\resistor.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins7649@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_R0603_20R':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS7675@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins7675@discrete.\resistor.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins7675@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR_R0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS7941@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins7941@discrete.\resistor.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins7941@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RESISTOR_R0603_1M':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS8753@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins8753@discrete.\resistor.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins8753@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW PUSHBUTTON_BUTTON_SMD_3X6MM_':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS2193@DISCRETE.SW PUSHBUTTON.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins2193@discrete.\sw pushbutton.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins2193@discrete.\sw pushbutton.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'STM32F103XX_1_LQFP48_STM32F103X':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS118@STM32F103C8T6_KIT_DEV.STM32F103XX_1.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins118@stm32f103c8t6_kit_dev.\stm32f103xx_1.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins118@stm32f103c8t6_kit_dev.\stm32f103xx_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'RT9193_SOT-23-5_RT9193':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS5332@LIBRARY1.RT9193.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins5332@library1.\rt9193.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins5332@library1.\rt9193.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'USB-MICRO-2.0_USB-MICRO-B-2_0_U':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS7565@LIBRARY1.USB-MICRO-2.0.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins7565@library1.\usb-micro-2.0.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins7565@library1.\usb-micro-2.0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL_MC306_32.768K':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS8139@DISCRETE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins8139@discrete.\crystal.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins8139@discrete.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y2 'CRYSTAL_2PIN_SMD_HC49-S_8MHZ':;
+
+SECTION_NUMBER 1
+ '@STM32F103C8T6_KIT_DEV.SCHEMATIC1(SCH_1):INS8155@DISCRETE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):ins8155@discrete.\crystal.normal\(chips)',
+ P_PATH='@stm32f103c8t6_kit_dev.schematic1(sch_1):page1_ins8155@discrete.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

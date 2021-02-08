@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : LED_1206_SMD_3_2X1_6mm.dra                    )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Tue Dec 22 19:36:27 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/LIBRARY
+    Name      = led_1206_smd_3_2x1_6mm.psm
+    User      = HP
+    Machine   = DESKTOP-T7IU2JN
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

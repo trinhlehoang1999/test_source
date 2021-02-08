@@ -1,0 +1,18 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : STM32F103C8T6_KIT_DEV_2.brd                   )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Sun Dec 27 11:39:23 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 1
+
+
+  <<<  ETCH  >>>
+
+    Layer = BOTTOM
+	Point on shape: (858.046 554.755)  Net: GND

@@ -1,0 +1,13 @@
+Cross Section Report
+F:/TRAINNING_ALLEGRO/PROJECT7/WORK/PCB/STM32F103C8T6_KIT_DEV.brd
+Tue Jan 12 21:32:33 2021
+
+Design Cross Section
+Subclass Name,Type,Material,Thickness (MIL),Tol +,Tol -,Conductivity (mho/cm),Dielectric Constant,Loss Tangent,Negative Artwork,Shield,Width (MIL),Unused Pin Pad Suppression,Unused Via Pad Suppression
+,SURFACE,AIR,,,,0,1,0,,,,,
+TOP,CONDUCTOR,1OZ_COPPER,1.400000,0.1,0.1,580000,4.5,0,,,5.000,,
+,DIELECTRIC,FR-4,30.000000,0,0,0,4.5,0.035,,,,,
+BOTTOM,CONDUCTOR,1OZ_COPPER,1.400000,0.1,0.1,580000,4.5,0,,,5.000,,
+,SURFACE,AIR,,,,0,1,0,,,,,
+
+Total Thickness: 32.8 MIL

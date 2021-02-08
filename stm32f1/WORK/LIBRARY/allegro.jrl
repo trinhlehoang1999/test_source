@@ -1,0 +1,20 @@
+\t (00:00:02) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Thu Dec 24 17:09:55 2020
+\t (00:00:02)         Host=DESKTOP-T7IU2JN User=HP Pid=1824 CPUs=8
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+   (00:00:02) Hello. I'm TRUONG 
+   (00:00:02) Hello. I'm TRUONG 
+   (00:00:02) Hello. I'm TRUONG 
+   (00:00:02) Hello. I'm TRUONG 
+   (00:00:02) Hello. I'm TRUONG 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/LIBRARY/USB-MICRO-B-2_0.dra
+\i (00:00:06) trapsize 745
+\i (00:00:06) trapsize 763
+\i (00:00:06) trapsize 763
+\i (00:00:07) generaledit 
+\i (00:00:09) new 
+\i (00:00:44) newdrawfillin "STM32F103C8T6_KIT_DEV.brd" "Board"
+\t (00:00:44)     Journal end - Thu Dec 24 17:10:37 2020

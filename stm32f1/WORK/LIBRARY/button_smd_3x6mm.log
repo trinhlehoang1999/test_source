@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : BUTTON_SMD_3X6mm.dra                          )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Tue Dec 22 20:03:58 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/WORK/LIBRARY
+    Name      = button_smd_3x6mm.psm
+    User      = HP
+    Machine   = DESKTOP-T7IU2JN
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

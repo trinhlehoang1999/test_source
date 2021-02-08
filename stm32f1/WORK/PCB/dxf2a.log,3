@@ -1,0 +1,55 @@
+Reading Layer Conversion File 
+Reading DXF file...
+NOTE: Replacing illegal character * with X in *Model_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space.
+NOTE: Replacing illegal character $ with X in $MODEL_SPACE.
+NOTE: Replacing illegal character $ with X in $PAPER_SPACE.
+NOTE: Replacing illegal character * with X in *D2.
+NOTE: Replacing illegal character * with X in *U3.
+NOTE: Replacing illegal character * with X in *U3.
+NOTE: Replacing illegal character * with X in *D4.
+NOTE: Replacing illegal character * with X in *U5.
+NOTE: Replacing illegal character * with X in *U5.
+NOTE: Replacing illegal character * with X in *D6.
+NOTE: Replacing illegal character * with X in *D7.
+NOTE: Replacing illegal character * with X in *U8.
+NOTE: Replacing illegal character * with X in *U8.
+NOTE: Replacing illegal character * with X in *D9.
+NOTE: Replacing illegal character * with X in *D10.
+NOTE: Replacing illegal character * with X in *D11.
+NOTE: Replacing illegal character * with X in *U12.
+NOTE: Replacing illegal character * with X in *U12.
+NOTE: Replacing illegal character * with X in *D13.
+NOTE: Replacing illegal character * with X in *U14.
+NOTE: Replacing illegal character * with X in *U14.
+NOTE: Replacing illegal character * with X in *D15.
+NOTE: Replacing illegal character * with X in *U16.
+NOTE: Replacing illegal character * with X in *U16.
+NOTE: Replacing illegal character * with X in *D17.
+NOTE: Replacing illegal character * with X in *U18.
+NOTE: Replacing illegal character * with X in *U18.
+NOTE: Replacing illegal character * with X in *D19.
+NOTE: Replacing illegal character * with X in *U20.
+NOTE: Replacing illegal character * with X in *U20.
+NOTE: Replacing illegal character * with X in *D21.
+NOTE: Replacing illegal character * with X in *U22.
+NOTE: Replacing illegal character * with X in *U22.
+NOTE: Replacing illegal character * with X in *D23.
+NOTE: Replacing illegal character * with X in *D24.
+NOTE: Replacing illegal character * with X in *D25.
+NOTE: Replacing illegal character * with X in *U26.
+NOTE: Replacing illegal character * with X in *U27.
+NOTE: Replacing illegal character * with X in *U28.
+NOTE: Replacing illegal character * with X in *U29.
+NOTE: Replacing illegal character * with X in *U30.
+NOTE: Replacing illegal character * with X in *U31.
+done.
+Layer conversion file: F:/ALLEGRO_DOCUMENT/SPECIAL_PAD/1_l.cnv
+DXF file: F:/ALLEGRO_DOCUMENT/SPECIAL_PAD/1.dxf
+BRD file: F:/TRAINNING_ALLEGRO/PROJECT7/WORK/PCB/#Taaaaap02240.dra
+Update existing design?: YES
+Use default text?: YES
+DXF units: INCHES
+Design units: INCHES
+Design precision: 4
+dxf2a complete.

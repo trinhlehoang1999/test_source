@@ -1,0 +1,15 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : STM32F103C8T6_KIT_DEV_2.brd                   )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Mon Dec 28 22:05:06 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+WARNING:   WARNING(SPMHDB-42): Run batch DRC to regenerate DRC errs.
+
+1 warnings, 0 errors detected, 0 errors could be fixed.

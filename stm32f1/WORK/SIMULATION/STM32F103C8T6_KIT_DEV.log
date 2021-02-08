@@ -1,0 +1,16 @@
+Job Name         : E:\TRAING_ALLEGRO\TRAINNING2\PROJECT7\WORK\SIMULATION\STM32F103C8T6_KIT_DEV
+Input File Name  : E:\TRAING_ALLEGRO\TRAINNING2\PROJECT7\WORK\SIMULATION\STM32F103C8T6_KIT_DEV.brd
+HYP File Name    : E:\TRAING_ALLEGRO\TRAINNING2\PROJECT7\WORK\SIMULATION\STM32F103C8T6_KIT_DEV.hyp
+REF File Name    : E:\TRAING_ALLEGRO\TRAINNING2\PROJECT7\WORK\SIMULATION\STM32F103C8T6_KIT_DEV.ref
+Log File Name    : E:\TRAING_ALLEGRO\TRAINNING2\PROJECT7\WORK\SIMULATION\STM32F103C8T6_KIT_DEV.log
+Err File Name    : E:\TRAING_ALLEGRO\TRAINNING2\PROJECT7\WORK\SIMULATION\STM32F103C8T6_KIT_DEV.err
+Control File     : C:\MentorGraphics\ODB++_Inside_Cadence_Allegro\HLVX.2.5\SDD_HOME\hyperlynx64\control_hyp.txt
+info : Extracting Allegro Board Database
+info : reading in Allegro Board data
+info : processing ALGBRD data
+info : processing Allegro Board file for design data
+info : writing out data in HYP format
+info : done writing out data in HYP format
+info : writing .ref file
+Library Attribute: HYP_LIB
+Model Attribute  : HYP_DEVICE

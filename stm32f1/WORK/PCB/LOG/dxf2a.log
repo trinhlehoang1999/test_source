@@ -1,0 +1,81 @@
+Reading Layer Conversion File 
+Reading DXF file...
+NOTE: Replacing illegal character * with X in *Model_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space.
+done.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38394.
+NOTE: Ignoring unsupported element HATCH on line 38794.
+NOTE: Ignoring unsupported element HATCH on line 38794.
+NOTE: Ignoring unsupported element HATCH on line 38794.
+NOTE: Ignoring unsupported element HATCH on line 38794.
+NOTE: Ignoring unsupported element HATCH on line 38594.
+NOTE: Ignoring unsupported element HATCH on line 38594.
+NOTE: Ignoring unsupported element HATCH on line 38594.
+Layer conversion file: E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/OUTPUT/STM_DEV_PNL/sub_l.cnv
+DXF file: E:/TRAING_ALLEGRO/TRAINNING2/PROJECT7/OUTPUT/STM_DEV_PNL/sub.dxf
+BRD file: #Taaaaab08612.tmp
+Update existing design?: YES
+Use default text?: YES
+DXF units: INCHES
+Design units: MILS
+Design precision: 3
+dxf2a complete.
